@@ -7,7 +7,7 @@ function populateGridData(books){
     const booksGrid = document.querySelector("#booksGrid")
     books.forEach(book => {
         if(books.length > 0){
-            const cardContainer = createElement("div", booksGrid, "cardContainer")
+            const cardContainer = createElement("div", booksGrid, `cardContainer ${book.category}`)
             const bookSpan = createElement("div", cardContainer, "bookCard");
 
             const image = createElement("img", bookSpan);
