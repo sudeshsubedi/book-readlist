@@ -1,7 +1,7 @@
 [
     {
         "ID": 0,
-        "name": "Eldad Eilam - Reversing - Secrets of Reverse Engineering",
+        "name": "Secrets of Reverse Engineering",
         "type": "programming",
         "categoty": "others",
         "status": "unread",
@@ -11,7 +11,7 @@
     },
     {
         "ID": 1,
-        "name": "code-charles-petzold",
+        "name": "code",
         "type": "programming",
         "categoty": "others",
         "status": "unread",
@@ -21,7 +21,7 @@
     },
     {
         "ID": 2,
-        "name": "Beej - Guide to Network Programming",
+        "name": "Guide to Network Programming",
         "type": "programming",
         "categoty": "others",
         "status": "unread",
@@ -31,7 +31,7 @@
     },
     {
         "ID": 3,
-        "name": "Math_for_Programmers_freeforbookdotcom (3)",
+        "name": "Math for Programmers",
         "type": "programming",
         "categoty": "others",
         "status": "unread",
@@ -41,7 +41,7 @@
     },
     {
         "ID": 4,
-        "name": "Jack Crenshaw - Let's Build a Compiler",
+        "name": "Let's Build a Compiler",
         "type": "programming",
         "categoty": "others",
         "status": "unread",
@@ -51,7 +51,7 @@
     },
     {
         "ID": 5,
-        "name": "The.Mythical.Man.Month.F.Brooks",
+        "name": "The Mythical Man Month",
         "type": "programming",
         "categoty": "others",
         "status": "unread",
@@ -61,7 +61,7 @@
     },
     {
         "ID": 6,
-        "name": "Kevin D. Mitnick & William L. Simon - The Art Of Deception",
+        "name": "The Art Of Deception",
         "type": "programming",
         "categoty": "others",
         "status": "unread",
@@ -71,7 +71,7 @@
     },
     {
         "ID": 7,
-        "name": "Bjarne Stroustrup - The C++ Programming Language 4th Edition - 2013",
+        "name": "The C++ Programming Language",
         "type": "programming",
         "categoty": "languages",
         "status": "unread",
@@ -81,7 +81,7 @@
     },
     {
         "ID": 8,
-        "name": "C# 8.0 oreally",
+        "name": "C# 8.0",
         "type": "programming",
         "categoty": "languages",
         "status": "unread",
@@ -91,7 +91,7 @@
     },
     {
         "ID": 9,
-        "name": "Bjarne Stroustrup - Programming Principles and Practice Using C++",
+        "name": "Programming Principles and Practice Using C++",
         "type": "programming",
         "categoty": "languages",
         "status": "unread",
@@ -101,7 +101,7 @@
     },
     {
         "ID": 10,
-        "name": "Andrei Alexandrescu - Modern C++ Design",
+        "name": "Modern C++ Design",
         "type": "programming",
         "categoty": "languages",
         "status": "unread",
@@ -111,7 +111,7 @@
     },
     {
         "ID": 11,
-        "name": "Scott Meyers - Effective STL",
+        "name": "Effective STL",
         "type": "programming",
         "categoty": "languages",
         "status": "unread",
@@ -121,7 +121,7 @@
     },
     {
         "ID": 12,
-        "name": "Bruce Eckel - Thinking in Java 4th Edition",
+        "name": "Thinking in Java",
         "type": "programming",
         "categoty": "languages",
         "status": "unread",
@@ -131,7 +131,7 @@
     },
     {
         "ID": 13,
-        "name": "C# Game Programming Cookbook for Unity 3D ( PDFDrive )",
+        "name": "C# Game Programming Cookbook for Unity 3D",
         "type": "programming",
         "categoty": "gamedev",
         "status": "unread",
@@ -141,7 +141,7 @@
     },
     {
         "ID": 14,
-        "name": "Learning C# by Developing Games with Unity 3D Beginner's Guide ( PDFDrive )",
+        "name": "Learning C# by Developing Games with Unity 3D",
         "type": "programming",
         "categoty": "gamedev",
         "status": "unread",
@@ -151,7 +151,7 @@
     },
     {
         "ID": 15,
-        "name": "Katie Salen & Eric Zimmerman - Rules of Play Game Design Fundamentals",
+        "name": "Rules of Play Game Design Fundamentals",
         "type": "programming",
         "categoty": "gamedev",
         "status": "unread",
@@ -161,7 +161,7 @@
     },
     {
         "ID": 16,
-        "name": "kupdf.net_learning-c-programming-with-unity-3d-by-alex-okitaakdpdf",
+        "name": "Learning C# programming with unity 3d",
         "type": "programming",
         "categoty": "gamedev",
         "status": "unread",
@@ -171,7 +171,7 @@
     },
     {
         "ID": 17,
-        "name": "Jesse Schell - The Art of Game Design A Book of Lenses ",
+        "name": "The Art of Game Design A Book of Lenses ",
         "type": "programming",
         "categoty": "gamedev",
         "status": "unread",
@@ -181,7 +181,7 @@
     },
     {
         "ID": 18,
-        "name": "Raph Koster - A Theory of Fun for Game Design",
+        "name": "A Theory of Fun for Game Design",
         "type": "programming",
         "categoty": "gamedev",
         "status": "unread",
@@ -191,7 +191,7 @@
     },
     {
         "ID": 19,
-        "name": "Scott Chacon - Pro Git",
+        "name": "Pro Git",
         "type": "programming",
         "categoty": "Tools",
         "status": "unread",
@@ -201,7 +201,7 @@
     },
     {
         "ID": 20,
-        "name": "Tim Ottinger - Vim Like A Pro",
+        "name": "Vim Like A Pro",
         "type": "programming",
         "categoty": "Tools",
         "status": "unread",
@@ -211,7 +211,7 @@
     },
     {
         "ID": 21,
-        "name": "Andrew Hunt & David Thomas - Pragmatic Programmer",
+        "name": "Pragmatic Programmer",
         "type": "programming",
         "categoty": "improve-programming-style",
         "status": "unread",
@@ -221,7 +221,7 @@
     },
     {
         "ID": 22,
-        "name": "Robert Martin - Clean Code",
+        "name": "Clean Code",
         "type": "programming",
         "categoty": "improve-programming-style",
         "status": "unread",
@@ -231,7 +231,7 @@
     },
     {
         "ID": 23,
-        "name": "Steve McConnell - Code Complete (2nd edition)",
+        "name": "Code Complete",
         "type": "programming",
         "categoty": "improve-programming-style",
         "status": "unread",
@@ -241,7 +241,7 @@
     },
     {
         "ID": 24,
-        "name": "Addison Wesley - 2001 - Knuth - The Art of Computer Programming Vol I II III IV",
+        "name": "The Art of Computer Programming",
         "type": "programming",
         "categoty": "improve-programming-style",
         "status": "unread",
@@ -251,7 +251,7 @@
     },
     {
         "ID": 25,
-        "name": "Martin Fowler - Patterns of Enterprise Application Architecture (2002)",
+        "name": "Patterns of Enterprise Application Architecture",
         "type": "programming",
         "categoty": "improve-programming-style",
         "status": "unread",
@@ -261,7 +261,7 @@
     },
     {
         "ID": 26,
-        "name": "Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software",
+        "name": "Design Patterns - Elements of Reusable Object-Oriented Software",
         "type": "programming",
         "categoty": "oop",
         "status": "unread",
@@ -271,7 +271,7 @@
     },
     {
         "ID": 27,
-        "name": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to algorithms, 3rd edition",
+        "name": "Introduction to algorithms",
         "type": "programming",
         "categoty": "algorithms",
         "status": "unread",
@@ -281,7 +281,7 @@
     },
     {
         "ID": 28,
-        "name": "Robert Sedgewick, Philippe Flajolet -  An Introduction to the Analysis of Algorithms, 2nd Edition",
+        "name": "An Introduction to the Analysis of Algorithms",
         "type": "programming",
         "categoty": "algorithms",
         "status": "unread",
@@ -291,7 +291,7 @@
     },
     {
         "ID": 29,
-        "name": "ProgrammingPearls2nd",
+        "name": "Programming Pearls",
         "type": "programming",
         "categoty": "algorithms",
         "status": "unread",
@@ -301,7 +301,7 @@
     },
     {
         "ID": 30,
-        "name": "Programming.Pearls-extrastuff",
+        "name": "Programming Pearls extrastuff",
         "type": "programming",
         "categoty": "algorithms",
         "status": "unread",
