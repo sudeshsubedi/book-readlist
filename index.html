@@ -8,11 +8,33 @@
 </head>
 <body>
     <div id="container">
-        <div id="booksGrid">
-            
+        <div id="menu">
+            <a href="index.html">Home</a>
+            <div class="dropdown">
+                <button class="dropbtn">Category</button>
+                <div class="dropdown-content">
+                    <a href="#" class="category-options" name="all">All</a>
+                    <a href="#" class="category-options" name="algorithms">Algorithms</a>
+                    <a href="#" class="category-options" name="gamedev">Gamedev</a>
+                    <a href="#" class="category-options" name="improve-programming-style">Improvement</a>
+                    <a href="#" class="category-options" name="languages">Languages</a>
+                    <a href="#" class="category-options" name="oop">OOP</a>
+                    <a href="#" class="category-options" name="others">Others</a>
+                    <a href="#" class="category-options" name="Tools">Tools</a>
+                </div>
+            </div>
+
+            <div class="search-container">
+                <form action="">
+                  <input type="text" placeholder="Search.." name="search">
+                  <button type="submit"><img src="./res/icon/search.png" alt="search" height="16px" width="16px"></button>
+                </form>
+            </div>
         </div>
+        <div id="booksGrid"></div>
     </div>    
 </body>
 <script src="./src/js/readJson.js"></script>
 <script src="./src/js/index.js"></script>
+<script src="./src/js/category.js"></script>
 </html>
