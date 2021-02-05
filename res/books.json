@@ -197,7 +197,7 @@
         "status": "unread",
         "totalPages": 238,
         "pagesCompleted": 0,
-        "image": "./res/images/19.jpg"
+        "image": "./res/images/19.png"
     },
     {
         "ID": 20,
@@ -267,7 +267,7 @@
         "status": "unread",
         "totalPages": 431,
         "pagesCompleted": 0,
-        "image": "./res/images/26.jpg"
+        "image": "./res/images/26.png"
     },
     {
         "ID": 27,
