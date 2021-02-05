@@ -1,0 +1,302 @@
+[
+    {
+        "ID": 0,
+        "name": "Eldad Eilam - Reversing - Secrets of Reverse Engineering",
+        "type": "programming",
+        "category": "others",
+        "status": "unread",
+        "totalPages": 619,
+        "pagesCompleted": 0,
+        "image": "./res/images/Eldad Eilam - Reversing - Secrets of Reverse Engineering.img"
+    },
+    {
+        "ID": 1,
+        "name": "code-charles-petzold",
+        "type": "programming",
+        "category": "others",
+        "status": "unread",
+        "totalPages": 363,
+        "pagesCompleted": 0,
+        "image": "./res/images/code-charles-petzold.img"
+    },
+    {
+        "ID": 2,
+        "name": "Beej - Guide to Network Programming",
+        "type": "programming",
+        "category": "others",
+        "status": "unread",
+        "totalPages": 116,
+        "pagesCompleted": 0,
+        "image": "./res/images/Beej - Guide to Network Programming.img"
+    },
+    {
+        "ID": 3,
+        "name": "Math_for_Programmers_freeforbookdotcom (3)",
+        "type": "programming",
+        "category": "others",
+        "status": "unread",
+        "totalPages": 517,
+        "pagesCompleted": 0,
+        "image": "./res/images/Math_for_Programmers_freeforbookdotcom (3).img"
+    },
+    {
+        "ID": 4,
+        "name": "Jack Crenshaw - Let's Build a Compiler",
+        "type": "programming",
+        "category": "others",
+        "status": "unread",
+        "totalPages": 391,
+        "pagesCompleted": 0,
+        "image": "./res/images/Jack Crenshaw - Let's Build a Compiler.img"
+    },
+    {
+        "ID": 5,
+        "name": "The.Mythical.Man.Month.F.Brooks",
+        "type": "programming",
+        "category": "others",
+        "status": "unread",
+        "totalPages": 322,
+        "pagesCompleted": 0,
+        "image": "./res/images/The.Mythical.Man.Month.F.Brooks.img"
+    },
+    {
+        "ID": 6,
+        "name": "Kevin D. Mitnick & William L. Simon - The Art Of Deception",
+        "type": "programming",
+        "category": "others",
+        "status": "unread",
+        "totalPages": 335,
+        "pagesCompleted": 0,
+        "image": "./res/images/Kevin D. Mitnick & William L. Simon - The Art Of Deception.img"
+    },
+    {
+        "ID": 7,
+        "name": "Bjarne Stroustrup - The C++ Programming Language 4th Edition - 2013",
+        "type": "programming",
+        "category": "languages",
+        "status": "unread",
+        "totalPages": 1366,
+        "pagesCompleted": 0,
+        "image": "./res/images/Bjarne Stroustrup - The C++ Programming Language 4th Edition - 2013.img"
+    },
+    {
+        "ID": 8,
+        "name": "C# 8.0 oreally",
+        "type": "programming",
+        "category": "languages",
+        "status": "unread",
+        "totalPages": 800,
+        "pagesCompleted": 0,
+        "image": "./res/images/C# 8.0 oreally.img"
+    },
+    {
+        "ID": 9,
+        "name": "Bjarne Stroustrup - Programming Principles and Practice Using C++",
+        "type": "programming",
+        "category": "languages",
+        "status": "unread",
+        "totalPages": 1268,
+        "pagesCompleted": 0,
+        "image": "./res/images/Bjarne Stroustrup - Programming Principles and Practice Using C++.img"
+    },
+    {
+        "ID": 10,
+        "name": "Andrei Alexandrescu - Modern C++ Design",
+        "type": "programming",
+        "category": "languages",
+        "status": "unread",
+        "totalPages": 285,
+        "pagesCompleted": 0,
+        "image": "./res/images/Andrei Alexandrescu - Modern C++ Design.img"
+    },
+    {
+        "ID": 11,
+        "name": "Scott Meyers - Effective STL",
+        "type": "programming",
+        "category": "languages",
+        "status": "unread",
+        "totalPages": 198,
+        "pagesCompleted": 0,
+        "image": "./res/images/Scott Meyers - Effective STL.img"
+    },
+    {
+        "ID": 12,
+        "name": "Bruce Eckel - Thinking in Java 4th Edition",
+        "type": "programming",
+        "category": "languages",
+        "status": "unread",
+        "totalPages": 1079,
+        "pagesCompleted": 0,
+        "image": "./res/images/Bruce Eckel - Thinking in Java 4th Edition.img"
+    },
+    {
+        "ID": 13,
+        "name": "C# Game Programming Cookbook for Unity 3D ( PDFDrive )",
+        "type": "programming",
+        "category": "gamedev",
+        "status": "unread",
+        "totalPages": 452,
+        "pagesCompleted": 0,
+        "image": "./res/images/C# Game Programming Cookbook for Unity 3D ( PDFDrive ).img"
+    },
+    {
+        "ID": 14,
+        "name": "Learning C# by Developing Games with Unity 3D Beginner's Guide ( PDFDrive )",
+        "type": "programming",
+        "category": "gamedev",
+        "status": "unread",
+        "totalPages": 292,
+        "pagesCompleted": 0,
+        "image": "./res/images/Learning C# by Developing Games with Unity 3D Beginner's Guide ( PDFDrive ).img"
+    },
+    {
+        "ID": 15,
+        "name": "Katie Salen & Eric Zimmerman - Rules of Play Game Design Fundamentals",
+        "type": "programming",
+        "category": "gamedev",
+        "status": "unread",
+        "totalPages": 694,
+        "pagesCompleted": 0,
+        "image": "./res/images/Katie Salen & Eric Zimmerman - Rules of Play Game Design Fundamentals.img"
+    },
+    {
+        "ID": 16,
+        "name": "kupdf.net_learning-c-programming-with-unity-3d-by-alex-okitaakdpdf",
+        "type": "programming",
+        "category": "gamedev",
+        "status": "unread",
+        "totalPages": 686,
+        "pagesCompleted": 0,
+        "image": "./res/images/kupdf.net_learning-c-programming-with-unity-3d-by-alex-okitaakdpdf.img"
+    },
+    {
+        "ID": 17,
+        "name": "Jesse Schell - The Art of Game Design A Book of Lenses ",
+        "type": "programming",
+        "category": "gamedev",
+        "status": "unread",
+        "totalPages": 518,
+        "pagesCompleted": 0,
+        "image": "./res/images/Jesse Schell - The Art of Game Design A Book of Lenses .img"
+    },
+    {
+        "ID": 18,
+        "name": "Raph Koster - A Theory of Fun for Game Design",
+        "type": "programming",
+        "category": "gamedev",
+        "status": "unread",
+        "totalPages": 256,
+        "pagesCompleted": 0,
+        "image": "./res/images/Raph Koster - A Theory of Fun for Game Design.img"
+    },
+    {
+        "ID": 19,
+        "name": "Scott Chacon - Pro Git",
+        "type": "programming",
+        "category": "Tools",
+        "status": "unread",
+        "totalPages": 238,
+        "pagesCompleted": 0,
+        "image": "./res/images/Scott Chacon - Pro Git.img"
+    },
+    {
+        "ID": 20,
+        "name": "Tim Ottinger - Vim Like A Pro",
+        "type": "programming",
+        "category": "Tools",
+        "status": "unread",
+        "totalPages": 41,
+        "pagesCompleted": 0,
+        "image": "./res/images/Tim Ottinger - Vim Like A Pro.img"
+    },
+    {
+        "ID": 21,
+        "name": "Andrew Hunt & David Thomas - Pragmatic Programmer",
+        "type": "programming",
+        "category": "improve-programming-style",
+        "status": "unread",
+        "totalPages": 253,
+        "pagesCompleted": 0,
+        "image": "./res/images/Andrew Hunt & David Thomas - Pragmatic Programmer.img"
+    },
+    {
+        "ID": 22,
+        "name": "Robert Martin - Clean Code",
+        "type": "programming",
+        "category": "improve-programming-style",
+        "status": "unread",
+        "totalPages": 462,
+        "pagesCompleted": 0,
+        "image": "./res/images/Robert Martin - Clean Code.img"
+    },
+    {
+        "ID": 23,
+        "name": "Steve McConnell - Code Complete (2nd edition)",
+        "type": "programming",
+        "category": "improve-programming-style",
+        "status": "unread",
+        "totalPages": 952,
+        "pagesCompleted": 0,
+        "image": "./res/images/Steve McConnell - Code Complete (2nd edition).img"
+    },
+    {
+        "ID": 24,
+        "name": "Addison Wesley - 2001 - Knuth - The Art of Computer Programming Vol I II III IV",
+        "type": "programming",
+        "category": "improve-programming-style",
+        "status": "unread",
+        "totalPages": 2494,
+        "pagesCompleted": 0,
+        "image": "./res/images/Addison Wesley - 2001 - Knuth - The Art of Computer Programming Vol I II III IV.img"
+    },
+    {
+        "ID": 25,
+        "name": "Martin Fowler - Patterns of Enterprise Application Architecture (2002)",
+        "type": "programming",
+        "category": "improve-programming-style",
+        "status": "unread",
+        "totalPages": 389,
+        "pagesCompleted": 0,
+        "image": "./res/images/Martin Fowler - Patterns of Enterprise Application Architecture (2002).img"
+    },
+    {
+        "ID": 26,
+        "name": "Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software",
+        "type": "programming",
+        "category": "oop",
+        "status": "unread",
+        "totalPages": 431,
+        "pagesCompleted": 0,
+        "image": "./res/images/Gang of Four - Design Patterns - Elements of Reusable Object-Oriented Software.img"
+    },
+    {
+        "ID": 27,
+        "name": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to algorithms, 3rd edition",
+        "type": "programming",
+        "category": "algorithms",
+        "status": "unread",
+        "totalPages": 1313,
+        "pagesCompleted": 0,
+        "image": "./res/images/Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to algorithms, 3rd edition.img"
+    },
+    {
+        "ID": 28,
+        "name": "Robert Sedgewick, Philippe Flajolet -  An Introduction to the Analysis of Algorithms, 2nd Edition",
+        "type": "programming",
+        "category": "algorithms",
+        "status": "unread",
+        "totalPages": 593,
+        "pagesCompleted": 0,
+        "image": "./res/images/Robert Sedgewick, Philippe Flajolet -  An Introduction to the Analysis of Algorithms, 2nd Edition.img"
+    },
+    {
+        "ID": 29,
+        "name": "Programming.Pearls-extrastuff",
+        "type": "programming",
+        "category": "algorithms",
+        "status": "unread",
+        "totalPages": 283,
+        "pagesCompleted": 0,
+        "image": "./res/images/Programming.Pearls-extrastuff.img"
+    }
+]
